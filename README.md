@@ -1,7 +1,5 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Jᴏᴀϙᴜɪɴ! 
-*Backend Developer | Java & Microservices*
-<br /> 
-         
+<h1>I'm joaquin</h1>
+
 <p align="left">
 I'm a Junior Backend Developer focused on building scalable applications with <b>Spring Boot</b> and <b>Django</b>.  
 I have experience working with <b>SQL databases</b>, <b>REST APIs</b>, and I'm currently exploring <b>microservices architecture</b> and <b>containerization with Docker & Docker Compose</b>.  
