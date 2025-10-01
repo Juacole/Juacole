@@ -16,7 +16,7 @@ I have experience working with <b>SQL databases</b>, <b>REST APIs</b>, and I'm c
 
 <h3 align="center">Complementary</h3>
 <p align="center">
-<img width="180px" src="https://skillicons.dev/icons?i=python,django,unity&perline=10" />
+<img width="180px" src="https://skillicons.dev/icons?i=python,django&perline=10" />
 </p>
 
 <h3 align="center">Basic Level</h3>
