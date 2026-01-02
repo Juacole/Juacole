@@ -18,11 +18,11 @@
 
 Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** con una fuerte especialización en el ecosistema **Backend**. Me apasiona el diseño de arquitecturas de software escalables, la concurrencia y la implementación de sistemas distribuidos robustos.
 
-Actualmente, estoy profundizando en **Arquitecturas de Microservicios** con Spring Cloud y la contenedorización con Docker, mientras preparo mi certificación **Oracle Certified Associate**.
+Actualmente, estoy profundizando en **Arquitecturas de Microservicios** con Spring Cloud y la contenedorización con Docker.
 
 - 🔭 **Trabajando en:** [InmoHub](#-proyectos-destacados) (CRM Inmobiliario de Microservicios).
 - 🌱 **Aprendiendo:** Apache Kafka y Arquitectura Hexagonal.
-- 💼 **Experiencia:** Testing QA y Gestión de Datos en MySQL.
+- 💼 **Experiencia:** T ́ecnico de Soporte de Aplicaciones y Datos.
 
 ---
 
