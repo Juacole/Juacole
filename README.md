@@ -29,7 +29,7 @@ Actualmente, estoy profundizando en **Arquitecturas de Microservicios** con Spri
 ## 🛠️ Stack Tecnológico
 
 ### 🚀 Backend & Core
-> **Nivel Avanzado:** POO, Concurrencia, Streams API, Estructuras de Datos, File I/O.
+> **Java Avanzado:** POO, Concurrencia, Streams API, Estructuras de Datos, File I/O.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kotlin,python,django&perline=10" />
