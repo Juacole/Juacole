@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy Joaquin Gabriel Puchuri Tunjar 👋</h1>
-  <h3 align="center">Backend Developer | Java & Spring Boot Specialist | Microservices Architect</h3>
+  <h3 align="center">Backend Developer | .NET & Java/Spring Boot | Software Architecture Enthusiast</h3>
 </div>
 
 <p align="center">
@@ -16,64 +16,59 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** con una fuerte especialización en el ecosistema **Backend**. Me apasiona el diseño de arquitecturas de software escalables, la concurrencia y la implementación de sistemas distribuidos robustos.
+Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en el desarrollo **Backend** y la **Arquitectura de Software**. Me motiva el diseño de sistemas escalables, el manejo de la concurrencia y la implementación de soluciones en la nube.
 
-Actualmente, estoy profundizando en **Arquitecturas de Microservicios** con Spring Cloud y la contenedorización con Docker.
+Actualmente, estoy realizando mis prácticas profesionales en **QR Fusión**, donde trabajo con tecnologías .NET y Azure para sistemas de mensajería de alta disponibilidad.
 
-- 🔭 **Trabajando en:** [InmoHub](#-proyectos-destacados) (CRM Inmobiliario de Microservicios).
-- 🌱 **Aprendiendo:** Apache Kafka y Arquitectura Hexagonal.
-- 💼 **Experiencia:** T ́ecnico de Soporte de Aplicaciones y Datos.
+- 🔭 **Trabajando en:** [InmoHub MVP](#-proyectos-destacados) y plataforma de mensajería distribuida en QR Fusión.
+- 🌱 **Aprendiendo:** Microsoft Azure, Arquitecturas Limpias (Clean Architecture) y .NET 8.
+- 💼 **Experiencia:** Backend Developer Intern en QR Fusión | Ex-Soporte Técnico en Yebala Koffie.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
 ### 🚀 Backend & Core
-> **Java Avanzado:** POO, Concurrencia, Streams API, Estructuras de Datos, File I/O.
+> **Ecosistemas:** Java (Spring Boot) y .NET (C#).
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kotlin,python,django&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,kotlin,python,django,hibernate&perline=10" />
 </div>
 
-**Librerías y Herramientas específicas:**
-- **Spring Ecosystem:** Boot, Data JPA, Security, **Cloud** (Eureka, Gateway, OpenFeign, Config Server).
-- **Resilience:** Resilience4j (Circuit Breaker, Rate Limiter).
-- **Testing:** JUnit, Mockito.
+**Competencias técnicas:**
+- **Java Ecosystem:** Spring Boot, Spring Data JPA, Spring Security, **Spring Cloud** (Eureka, Gateway, Config Server).
+- **.NET Ecosystem:** .NET 8, ASP.NET Core, SignalR, Entity Framework Core.
+- **Arquitectura:** Microservicios, API REST, Principios SOLID y Patrones de Diseño.
 
-### 🗄️ Bases de Datos & Mensajería
+### 🗄️ Datos & Mensajería
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,kafka&perline=10" />
 </div>
 
-### ☁️ DevOps & Infraestructura
+### ☁️ DevOps & Cloud
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman,linux&perline=10" />
 </div>
 
-### 💻 Frontend
+### 💻 Frontend & Multiplataforma
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,tailwind&perline=10" />
-</div>
-
-### 📱 Mobile
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio&perline=10" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,html,css,js&perline=10" />
 </div>
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-### 🏠 **InmoHub - CRM Inmobiliario (Microservicios)**
-*En desarrollo.* Sistema distribuido para la gestión integral de agencias inmobiliarias y propietarios (FSBO).
-- **Arquitectura:** Microservicios independientes comunicados vía REST y eventos.
-- **Tecnologías:** Java 21, Spring Boot 4, Spring Cloud (Eureka, Gateway), PostgreSQL, Flyway, Resilience4j.
-- **Frontend:** Compose Multiplatform.
+### 🏠 **InmoHub - MVP Workspace (CRM Inmobiliario)**
+Sistema distribuido de gestión inmobiliaria basado en microservicios y cliente multiplataforma.
+- **Backend:** Microservicios con Java 21, Spring Boot 4 y Spring Cloud. Persistencia independiente con PostgreSQL/MySQL y Flyway.
+- **Frontend:** Aplicación para Android y Desktop desarrollada con **Kotlin Multiplatform (KMP)** y **Compose Multiplatform**.
+- **Arquitectura:** API Gateway, Service Discovery (Eureka) y comunicación asíncrona.
 
-### 💬 **Real-Time Chat App**
-Clon funcional de WhatsApp Web enfocado en la comunicación bidireccional asíncrona.
-- **Características:** Chats privados en tiempo real, autenticación de usuarios y persistencia de mensajes.
-- **Tecnologías:** Django, **Django Channels (WebSockets)**, **Redis** (Capa de transporte), Docker Compose, MySQL.
+### 💬 **whatsapp-chat-clone**
+Proyecto enfocado en la comunicación bidireccional asíncrona y escalabilidad de red.
+- **Características:** Mensajería en tiempo real mediante WebSockets, gestión de presencia distribuida y persistencia de estados.
+- **Tecnologías:** Django, **Django Channels**, **Redis** (como Backplane/Transporte), Docker Compose y MySQL.
 
 ---
 <br />
