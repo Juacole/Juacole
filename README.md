@@ -22,7 +22,7 @@ Actualmente, estoy realizando mis prácticas profesionales en **QR Fusión**, do
 
 - 🔭 **Trabajando en:** [InmoHub MVP](#-proyectos-destacados) y plataforma de mensajería distribuida en QR Fusión.
 - 🌱 **Aprendiendo:** Microsoft Azure, Arquitecturas Limpias (Clean Architecture) y .NET 8.
-- 💼 **Experiencia:** Backend Developer Intern en QR Fusión | Ex-Soporte Técnico en Yebala Koffie.
+- 💼 **Experiencia:** Backend Developer en QR Fusión | Soporte Técnico en Yebala Koffie IO.
 
 ---
 
