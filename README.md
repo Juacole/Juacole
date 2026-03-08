@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy Joaquin Gabriel Puchuri Tunjar 👋</h1>
-  <h3 align="center">Backend Developer | Java/Spring Boot & .NET | Software Architecture Enthusiast</h3>
+  <h3 align="center">Backend Developer | Software Architecture Enthusiast</h3>
 </div>
 
 <p align="center">
@@ -21,7 +21,7 @@ Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en
 Actualmente, estoy realizando mis prácticas profesionales en **QR Fusión**, donde trabajo con tecnologías .NET y Azure para sistemas de mensajería de alta disponibilidad.
 
 - 🔭 **Trabajando en:** [InmoHub MVP](#-proyectos-destacados) y plataforma de mensajería distribuida en QR Fusión.
-- 🌱 **Aprendiendo:** Microsoft Azure, Arquitecturas Limpias (Clean Architecture) y .NET 8.
+- 🌱 **Aprendiendo:** Microsoft Azure, Clean Architecture, SOLID y .NET 8.
 - 💼 **Experiencia:** Backend Developer en QR Fusión | Soporte Técnico en Yebala Koffie IO.
 
 ---
@@ -29,7 +29,6 @@ Actualmente, estoy realizando mis prácticas profesionales en **QR Fusión**, do
 ## 🛠️ Stack Tecnológico
 
 ### 🚀 Backend & Core
-> **Ecosistemas:** Java (Spring Boot) y .NET (C#).
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,kotlin,python,django,hibernate&perline=10" />
@@ -47,7 +46,7 @@ Actualmente, estoy realizando mis prácticas profesionales en **QR Fusión**, do
 
 ### ☁️ DevOps & Cloud
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux&perline=10" />
 </div>
 
 ### 💻 Frontend & Multiplataforma
@@ -65,7 +64,7 @@ Sistema distribuido de gestión inmobiliaria basado en microservicios y cliente 
 - **Frontend:** Aplicación para Android y Desktop desarrollada con **Kotlin Multiplatform (KMP)** y **Compose Multiplatform**.
 - **Arquitectura:** API Gateway, Service Discovery (Eureka) y comunicación asíncrona.
 
-### 💬 **whatsapp-chat-clone**
+### 💬 **Whatsapp Chat Clone**
 Proyecto enfocado en la comunicación bidireccional asíncrona y escalabilidad de red.
 - **Características:** Mensajería en tiempo real mediante WebSockets, gestión de presencia distribuida y persistencia de estados.
 - **Tecnologías:** Django, **Django Channels**, **Redis** (como Backplane/Transporte), Docker Compose y MySQL.
