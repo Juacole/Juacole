@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en el desarrollo **Backend** y la **Arquitectura de Software**. Me motiva el diseño de sistemas escalables, el manejo de la concurrencia y la implementación de soluciones en la nube.
+Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en el desarrollo **Backend**, **Arquitectura de Software** y **Cloud Computing**. Me motiva el diseño de sistemas escalables, el manejo de la concurrencia y la implementación de soluciones en la nube.
 
 Actualmente, estoy realizando mis prácticas profesionales en **QR Fusión**, donde trabajo con tecnologías .NET y Azure para sistemas de mensajería de alta disponibilidad.
 
