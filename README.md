@@ -64,7 +64,7 @@ Sistema distribuido de gestión inmobiliaria basado en microservicios y cliente 
 - **Frontend:** Aplicación para Android y Desktop desarrollada con **Kotlin Multiplatform (KMP)** y **Compose Multiplatform**.
 - **Arquitectura:** API Gateway, Service Discovery (Eureka) y comunicación asíncrona.
 
-### 💬 **Whatsapp Chat Clone**
+### 💬 **Whatsapp Web Chat Clone**
 Proyecto enfocado en la comunicación bidireccional asíncrona y escalabilidad de red.
 - **Características:** Mensajería en tiempo real mediante WebSockets, gestión de presencia distribuida y persistencia de estados.
 - **Tecnologías:** Django, **Django Channels**, **Redis** (como Backplane/Transporte), Docker Compose y MySQL.
