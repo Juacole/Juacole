@@ -20,7 +20,7 @@ Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en
 
 Actualmente, estoy realizando mis prácticas profesionales en **QR Fusión**, donde trabajo con tecnologías .NET y Azure para sistemas de mensajería de alta disponibilidad.
 
-- 🔭 **Trabajando en:** [InmoHub MVP](#-proyectos-destacados) y plataforma de mensajería distribuida en QR Fusión.
+- 🔭 **Trabajando en:** [InmoHub](#-proyectos-destacados) y plataforma de mensajería distribuida en QR Fusión.
 - 🌱 **Aprendiendo:** Microsoft Azure, Clean Architecture, SOLID y .NET 8.
 - 💼 **Experiencia:** Técnico Informático en Norte, Sistemas de Gestión Informática SL | Backend Developer en QR Fusión | Soporte Técnico en Yebala Koffie IO.
 
