@@ -58,9 +58,9 @@ Actualmente, estoy realizando mis prácticas profesionales en **QR Fusión**, do
 
 ## 🌟 Proyectos Destacados
 
-### 🏠 **InmoHub - MVP Workspace (CRM Inmobiliario)**
+### 🏠 **InmoHub - (CRM Inmobiliario)**
 Sistema distribuido de gestión inmobiliaria basado en microservicios y cliente multiplataforma.
-- **Backend:** Microservicios con Java 21, Spring Boot 4 y Spring Cloud. Persistencia independiente con PostgreSQL/MySQL y Flyway.
+- **Backend:** Microservicios con Java 21, Spring Boot 4 y Spring Cloud. Persistencia independiente con PostgreSQL/MySQL.
 - **Frontend:** Aplicación para Android y Desktop desarrollada con **Kotlin Multiplatform (KMP)** y **Compose Multiplatform**.
 - **Arquitectura:** API Gateway, Service Discovery (Eureka) y comunicación asíncrona.
 
