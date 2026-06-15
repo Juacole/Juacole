@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy Joaquin Gabriel Puchuri Tunjar 👋</h1>
-  <h3 align="center">Backend Developer | Software Architecture & Cloud Computing</h3>
+  <h3 align="center">Backend Developer | Software Architecture</h3>
 </div>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en el desarrollo **Backend**, **Arquitectura de Software** y **Cloud Computing**. Me motiva el diseño de sistemas escalables, el manejo de la concurrencia y la implementación de soluciones en la nube.
+Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en el desarrollo **Backend** y la **Arquitectura de Software**. Me motiva el diseño de sistemas escalables, el manejo de la concurrencia y la creación de código limpio y mantenible.
 
-Actualmente, estoy realizando mis prácticas profesionales en **QR Fusión**, donde trabajo con tecnologías .NET y Azure para sistemas de mensajería de alta disponibilidad.
+Recientemente he culminado mis prácticas profesionales en **QR Fusión**, donde trabajé en el diseño e implementación de una plataforma de mensajería en tiempo real aplicando estándares de arquitectura profesional.
 
-- 🔭 **Trabajando en:** [InmoHub](#-proyectos-destacados) y plataforma de mensajería distribuida en QR Fusión.
-- 🌱 **Aprendiendo:** Microsoft Azure, Clean Architecture, SOLID y .NET 8.
+- 🔭 **Trabajando en:** [RealTimeChat](#-realtimechat-plataforma-de-mensajería-en-tiempo-real), mi proyecto actual de arquitectura backend.
+- 🌱 **Aprendiendo:** Clean Architecture, SOLID y .NET 10.
 - 💼 **Experiencia:** Backend Developer en QR Fusion | Analista de Soporte Funcional en Chaara App.
 
 ---
@@ -36,8 +36,8 @@ Actualmente, estoy realizando mis prácticas profesionales en **QR Fusión**, do
 
 **Competencias técnicas:**
 - **Java Ecosystem:** Spring Boot, Spring Data JPA, Spring Security, **Spring Cloud** (Eureka, Gateway, Config Server).
-- **.NET Ecosystem:** .NET 8, ASP.NET Core, SignalR, Entity Framework Core.
-- **Arquitectura:** Microservicios, API REST, Principios SOLID y Patrones de Diseño.
+- **.NET Ecosystem:** .NET 10, ASP.NET Core, SignalR, Entity Framework Core.
+- **Arquitectura:** Microservicios, API REST, Principios SOLID, Clean Architecture y Patrones de Diseño.
 
 ### 🗄️ Datos & Mensajería
 <div align="left">
@@ -57,6 +57,12 @@ Actualmente, estoy realizando mis prácticas profesionales en **QR Fusión**, do
 ---
 
 ## 🌟 Proyectos Destacados
+
+### ⚡ **RealTimeChat (Plataforma de Mensajería en Tiempo Real)**
+Proyecto backend orientado a la práctica de arquitectura de software profesional, separación de responsabilidades y escalabilidad.
+- **Backend:** Desarrollado en .NET 10 (C#) aplicando Clean Architecture, CQRS con MediatR y FluentValidation.
+- **Comunicación & Datos:** SignalR (WebSockets) para mensajería en tiempo real, SQL Server con Entity Framework Core.
+- **Arquitectura:** Autenticación con JWT (Refresh tokens rotativos), endpoints protegidos e interceptores personalizados.
 
 ### 🏠 **InmoHub (CRM Inmobiliario)**
 Sistema distribuido de gestión inmobiliaria basado en microservicios y cliente multiplataforma.
