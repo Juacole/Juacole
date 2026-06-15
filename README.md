@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy Joaquin Gabriel Puchuri Tunjar 👋</h1>
-  <h3 align="center">Backend Developer | Software Architecture</h3>
+  <h3 align="center">Backend Developer | Software Architect</h3>
 </div>
 
 <p align="center">
