@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy Joaquin Gabriel Puchuri Tunjar 👋</h1>
-  <h3 align="center">Backend Developer | Software Architect</h3>
+  <h3 align="center">Junior Backend Developer | Java · Spring Boot · .NET</h3>
 </div>
 
 <p align="center">
@@ -16,13 +16,14 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en el desarrollo **Backend** y la **Arquitectura de Software**. Me motiva el diseño de sistemas escalables, el manejo de la concurrencia y la creación de código limpio y mantenible.
+Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en el desarrollo **Backend** y el diseño de sistemas distribuidos. Me motiva construir software escalable y mantenible, tomar decisiones de arquitectura justificadas (Clean Architecture, microservicios, event-driven) y el manejo de la concurrencia y los datos en tiempo real.
 
-Recientemente he culminado mis prácticas profesionales en **QR Fusión**, donde trabajé en el diseño e implementación de una plataforma de mensajería en tiempo real aplicando estándares de arquitectura profesional.
+Recientemente he culminado mis prácticas en **QR Fusión**, donde desarrollé desde cero el backend de una plataforma de mensajería en tiempo real con .NET y Clean Architecture.
 
-- 🔭 **Trabajando en:** [RealTimeChat](#-realtimechat-plataforma-de-mensajería-en-tiempo-real), mi proyecto actual de arquitectura backend.
-- 🌱 **Aprendiendo:** Clean Architecture, SOLID y .NET 10.
-- 💼 **Experiencia:** Backend Developer en QR Fusion | Analista de Soporte Funcional en Chaara App.
+- 🔭 **Trabajando en:** [RealTimeChat](https://github.com/Juacole) — continuación personal del backend de mensajería (.NET, SignalR, CQRS).
+- 🌱 **Aprendiendo:** AWS (Cloud Practitioner, en preparación) e inglés B1 (Cambridge).
+- 💼 **Experiencia:** Backend Developer (prácticas) en QR Fusión · Analista de Soporte Funcional (prácticas) en Chaara App.
+- 📫 **Contacto:** jvacotunjar@gmail.com
 
 ---
 
@@ -31,49 +32,59 @@ Recientemente he culminado mis prácticas profesionales en **QR Fusión**, donde
 ### 🚀 Backend & Core
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,kotlin,python,django,hibernate&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,kotlin,python,django&perline=10" />
 </div>
 
 **Competencias técnicas:**
-- **Java Ecosystem:** Spring Boot, Spring Data JPA, Spring Security, **Spring Cloud** (Eureka, Gateway, Config Server).
-- **.NET Ecosystem:** .NET 10, ASP.NET Core, SignalR, Entity Framework Core.
-- **Arquitectura:** Microservicios, API REST, Principios SOLID, Clean Architecture y Patrones de Diseño.
+- **Java Ecosystem:** Spring Boot, Spring Cloud (Eureka, Gateway, Config Server), Spring Data JPA, Spring Security.
+- **.NET Ecosystem:** ASP.NET Core, SignalR, Entity Framework Core.
+- **Arquitectura:** Microservicios, Clean Architecture, CQRS, DDD, principios SOLID, API REST, JWT.
 
 ### 🗄️ Datos & Mensajería
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,kafka&perline=10" />
 </div>
 
-### ☁️ DevOps & Cloud
+`SQL Server` · `MySQL` · `PostgreSQL` · `Redis` · `Apache Kafka`
+
+### 🧪 Testing & Herramientas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux&perline=10" />
 </div>
 
-### 💻 Frontend & Multiplataforma
+`JUnit` · `Mockito` · `Swagger / OpenAPI` · `Docker` · `Docker Compose` · `Git`
+
+### ☁️ Cloud
+`AWS Cloud Practitioner (en formación)`
+
+### 💻 Multiplataforma
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,html,css,js&perline=10" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&perline=10" />
 </div>
+
+`Kotlin Multiplatform` · `Compose Multiplatform` · `Ktor`
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-### ⚡ **RealTimeChat (Plataforma de Mensajería en Tiempo Real)**
-Proyecto backend orientado a la práctica de arquitectura de software profesional, separación de responsabilidades y escalabilidad.
-- **Backend:** Desarrollado en .NET 10 (C#) aplicando Clean Architecture, CQRS con MediatR y FluentValidation.
-- **Comunicación & Datos:** SignalR (WebSockets) para mensajería en tiempo real, SQL Server con Entity Framework Core.
-- **Arquitectura:** Autenticación con JWT (Refresh tokens rotativos), endpoints protegidos e interceptores personalizados.
+### 🏠 [InmoHub](https://github.com/Juacole/Inmohub) — CRM Inmobiliario Distribuido
+Sistema distribuido de gestión inmobiliaria con cliente multiplataforma.
+- **Backend:** 7 microservicios con **Java 21** y **Spring Boot 4** (4 de negocio + Eureka, Config Server y API Gateway), comunicados con **Spring Cloud** y **Apache Kafka** (event-driven, consistencia eventual).
+- **Seguridad y datos:** **Spring Security** + **JWT** (access/refresh con rotación); persistencia **Database-per-Service** en MySQL 8 y PostgreSQL 15; ingesta masiva de CSV.
+- **Calidad:** tests por capa con **JUnit 5 + Mockito** y orquestación con **Docker Compose**.
+- **Frontend:** cliente Android/Desktop con **Kotlin Multiplatform** y **Compose Multiplatform** (Ktor).
 
-### 🏠 **InmoHub (CRM Inmobiliario)**
-Sistema distribuido de gestión inmobiliaria basado en microservicios y cliente multiplataforma.
-- **Backend:** Microservicios con Java 21, Spring Boot 4 y Spring Cloud. Persistencia independiente con PostgreSQL/MySQL.
-- **Frontend:** Aplicación para Android y Desktop desarrollada con **Kotlin Multiplatform (KMP)** y **Compose Multiplatform**.
-- **Arquitectura:** API Gateway, Service Discovery (Eureka) y comunicación asíncrona.
+### 💬 [RealTimeChat](https://github.com/Juacole) — Plataforma de Mensajería (.NET)
+Backend de mensajería en tiempo real desarrollado en mis prácticas y en evolución personal.
+- **Arquitectura:** **Clean Architecture** en 4 capas con **CQRS** sobre **.NET / ASP.NET Core**.
+- **Tiempo real:** **SignalR (WebSockets)** con grupos por conversación e indicador de escritura.
+- **Persistencia:** **SQL Server** + **EF Core**, con un interceptor e **índice único compuesto** que garantiza la unicidad de chats directos a nivel de base de datos.
+- **Seguridad:** autenticación **JWT** con refresh tokens rotativos.
 
-### 💬 **Whatsapp Web Chat Clone**
-Proyecto enfocado en la comunicación bidireccional asíncrona y escalabilidad de red.
-- **Características:** Mensajería en tiempo real mediante WebSockets, gestión de presencia distribuida y persistencia de estados.
-- **Tecnologías:** Django, **Django Channels**, **Redis** (como Backplane/Transporte), Docker Compose y MySQL.
+### 📱 [WhatsApp Web Clone](https://github.com/Juacole) — Chat en Tiempo Real (Python)
+Comunicación bidireccional asíncrona y escalabilidad de red.
+- **Tecnologías:** Django, **Django Channels**, **Redis** (backplane/transporte), WebSockets, Docker Compose y MySQL.
 
 ---
 <br />
